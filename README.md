@@ -9,13 +9,11 @@ You control a runner in a terminal environment. Your goal is to survive while na
 * **Red Blocks:** Locked commands. You must **type the correct command** (or its shorthand) and hit **ENTER** to destroy them before they hit you.
 
 ## ⌨️ Controls
-| Action | Key |
-| :--- | :--- |
-| **Move Left/Right** | `Left / Right Arrow Keys` |
-| **Type Command** | `A-Z Alphabet Keys` |
-| **Execute/Destroy** | `ENTER` |
-| **Start/Resume** | `SPACE` |
-| **Quit Game** | `Q` |
+* **Arrow Keys:** Move the runner left and right to dodge grey blocks.
+* **Typing:** Type the command shown above the red blocks into the terminal bar.
+* **ENTER:** Confirm the command to destroy the red block in your lane.
+* **SPACE:** Start or Restart the game.
+* **Q:** Quit the game immediately.
 
 ## 🚀 Command Shortcuts
 To score higher and clear paths faster, use these Helwan Linux shortcuts:
