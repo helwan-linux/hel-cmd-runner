@@ -1,6 +1,6 @@
 # Maintainer: saeed badreldin <helwanlinux@gmail.com>
 pkgname=hel-cmd-runner
-pkgver=1.0.0
+pkgver=0.0.1
 pkgrel=1
 pkgdesc="A terminal-style runner game to learn Helwan Linux commands"
 arch=('any')
