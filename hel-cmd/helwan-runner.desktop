@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Helwan Command Runner
+Comment=Learn Helwan Linux commands through gameplay
+Exec=python /usr/share/helwan-runner/main.py
+Icon=/usr/share/helwan-runner/images/icon.png
+Terminal=false
+Categories=Game;Education;
+Keywords=helwan;linux;hpm;commands;

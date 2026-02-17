@@ -1,0 +1,20 @@
+hel-cmd/
+📁 hel-cmd/
+├── 📁 data
+│   └── 📄 highscores.json
+├── 📁 engine
+│   ├── 📄 collision.py
+│   ├── 📄 runner.py
+│   └── 📄 track.py
+├── 📄 helwan-runner.desktop
+├── 📁 images
+│   └── 📄 icon.png
+├── 📁 logic
+│   ├── 📄 commands.py
+│   ├── 📄 parser.py
+│   └── 📄 state.py
+├── 📄 main.py
+└── 📁 ui
+    ├── 📄 assets.py
+    ├── 📄 effects.py
+    └── 📄 terminal.py
